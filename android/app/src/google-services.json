@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931543707454",
+    "project_id": "first-flutter-firebase-calisma",
+    "storage_bucket": "first-flutter-firebase-calisma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931543707454:android:e1e202d6d37b5ebef2066f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_firstdeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931543707454-b7lvf1pp1mnu8n3qke98tu5s35fe814f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlqPMZaUwsQwU5nDiMS4ww3OaPAYIZdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931543707454-b7lvf1pp1mnu8n3qke98tu5s35fe814f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
